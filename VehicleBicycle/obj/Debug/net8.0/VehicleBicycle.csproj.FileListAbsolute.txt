@@ -1,0 +1,15 @@
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\bin\Debug\net8.0\VehicleBicycle.exe
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\bin\Debug\net8.0\VehicleBicycle.deps.json
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\bin\Debug\net8.0\VehicleBicycle.runtimeconfig.json
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\bin\Debug\net8.0\VehicleBicycle.dll
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\bin\Debug\net8.0\VehicleBicycle.pdb
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.AssemblyInfoInputs.cache
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.AssemblyInfo.cs
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.csproj.CoreCompileInputs.cache
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.sourcelink.json
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.dll
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\refint\VehicleBicycle.dll
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.pdb
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\VehicleBicycle.genruntimeconfig.cache
+C:\Users\khumarao\Desktop\TeamWork\VehicleBicycle\obj\Debug\net8.0\ref\VehicleBicycle.dll
